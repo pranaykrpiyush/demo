@@ -1,0 +1,54 @@
+#Outer {
+    height: 600px;
+    width: 600px;
+    background-color: black;
+    margin-top: 80px;
+    margin-left: 385px;
+}
+
+#ws {
+    width: 600px;
+    height: 150px;
+    border: 1px whitesmoke solid;
+}
+
+#Number {
+    width: 360px;
+    height: 400px;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 60px;
+    margin-left: 55px;
+    font-size: 30px;
+}
+
+#Number div {
+    height: 100px;
+    width: 120px;
+}
+
+#ws {
+    color: white;
+    text-align: end;
+}
+
+#ws h1 {
+    padding-top: 70px;
+    font-size: 50px;
+}
+
+#Symbol div {
+    color: orangered;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin: 20px;
+}
+
+#Symbol {
+    margin-left: 480px;
+    margin-top: -445px;
+}
